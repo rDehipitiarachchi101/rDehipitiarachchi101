@@ -4,7 +4,6 @@ I am a Computer Science undergraduate at the **Georgia Institute of Technology**
 
 ### 🚀 What I'm working on
 - **AI UC Biomarker Tester:** Developed a Random Forest model using Python and CuPy to identify 20+ key biomarkers for detection from blood samples
-- **iOS Development:** Building `team_one_app` in **SwiftUI**, specifically focusing on drink nutrition and caffeine intake tracking.
 - **Machine Learning Research:** Creating parallelized programs for the GSU Galileo cluster to analyze wavelength absorption data.
 
 ### 🛠 Tech Stack
